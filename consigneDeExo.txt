@@ -1,0 +1,17 @@
+laravel_auth_exo_2
+
+-Refaire l'installation
+-Rajouter un champ prenom et age et faire en sorte que les données soient rajouté dans la table a l'enregistrement
+-Sur la page dashboard, via la *facade Auth*, afficher les données de l'utilisateur connecté (un autre dashboard que celui de  Breeze)
+
+laravel_auth_exo_3
+*Afficher dans la page home*
+
+-Une section age l'id, l'email et le name de la personne connecté.
+-Une section avec tous les users inscrits -> id,name,email
+
+---------
+Afficher dans la page home
+
+-Une section age l'id, l'email et le name de la personne connecté.
+-Une section avec tous les users inscrits -> id,name,email,
